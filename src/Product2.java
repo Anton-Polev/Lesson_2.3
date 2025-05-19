@@ -31,7 +31,7 @@ public class Product2 {
         System.out.println("Дата производства: " + data);
         System.out.println("Производитель: " + product);
         System.out.println("Страна происхождения: " + country);
-        System.out.println("Цена: " + price);
+        System.out.println("Цена: " + price + " рублей");
         System.out.println("Бронирования покупателем: " + people);
     }
 
