@@ -24,7 +24,7 @@ public class Park {
             System.out.println("Аттракцион: " + name);
             System.out.println("Время открытия: " + open);
             System.out.println("Время закрытия: " + close);
-            System.out.println("Стоимость билета: " + price);
+            System.out.println("Стоимость билета: " + price + " рублей");
         }
     }
 
