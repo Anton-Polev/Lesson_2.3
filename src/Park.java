@@ -2,7 +2,6 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 
 public class Park {
-
     public class Attraction {
         private String name;
         private LocalTime open;
@@ -68,8 +67,3 @@ public class Park {
         }
     }
 }
-
-
-
-
-
