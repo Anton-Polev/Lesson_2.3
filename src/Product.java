@@ -35,9 +35,8 @@ public class Product {
         System.out.println("Бронирования покупателем: " + people);
     }
 
-    /*
-    public static void main(String[] args) {
-        Product product1 = new Product(
+    /*public static void main(String[] args) {
+        Product productData1 = new Product(
                 1,
                 "Монитор",
                 LocalDate.of(2021, 01, 01),
@@ -45,7 +44,7 @@ public class Product {
                 "Китай",
                 2500.0,
                 false);
-        Product product2 = new Product(
+        Product productData2 = new Product(
                 2,
                 "Чай",
                 LocalDate.of(2025, 05, 05),
@@ -53,9 +52,9 @@ public class Product {
                 "Парагвай",
                 65.0,
                 true);
-        product1.info();
+        productData1.info();
         System.out.println("-------------------------");
-        product2.info();
-    }
-    */
+        productData2.info();
+     */
 }
+
